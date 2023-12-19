@@ -1,7 +1,7 @@
 <h2 align="center">
   Portfolio<br/>
-  <a href='https://vishalkumar-engr.netlify.app/'>Vishal Kumar</a>
-  [<a href='Vishal Kumar'>Link</a>]
+  <a href='https://vishalkumar-engr.netlify.app/'  target="_blank" rel="noopener noreferrer">Vishal Kumar</a>
+  [<a href='https://vishalkumar-engr.netlify.app/'  target="_blank" rel="noopener noreferrer">Link</a>]
 </h2>
 
 <br/>
